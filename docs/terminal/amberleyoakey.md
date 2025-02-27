@@ -42,7 +42,48 @@ AMB APP is expected to extend to OK APP (and vice versa) when they are offline. 
   <figcaption>OK TCU Airspace Diagram</figcaption>
 </figure>
 
-**OK ADC** owns the Class C airspace within 5 DME of the OK VOR from `SFC` to `A025`.
+**OK ADC** owns the Class C airspace within 5 DME of the OK VOR from `SFC` to `A030`.
+
+## Low Flying Areas
+
+There are eight Low Flying Areas, referred to as "LFAs" . The vertical limits are `SFC` to `A030`, and are depicted on the Oakey Special. They are referred to as LFA, ‘L (number)’ or ‘LIMA (number)’ by voice.
+
+<figure markdown>
+![Oakey Special](img/YBOK_LFA_TEMP.png){ width="600" }
+  <figcaption>Oakey Special</figcaption>
+</figure>
+
+### SAAFRs
+
+SAAFRs (Standard Use Army Aircraft Flight Routes) X-Ray, Yankee, and Zulu provide corridors into and out of Oakey CTR through the OFTA. These routes are defined as 2nm wide with vertical limits `SFC` to `A030`, and are  depicted on the Oakey Special chart.
+
+#### Entry and exit
+When cleared to depart via a SAAFR, aircraft are to depart the appropriate leg of the circuit and track direct to the appropriate SAAFR entry gate. When departing LFAs into a SAAFR with known traffic, the aircraft entering the SAAFR must give way to that traffic.
+
+#### Crossing a SAAFR
+An aircraft may require to cross a SAAFR (eg. From L7 to L6). In this instance, the onwards clearance from one LFA to another LFA implies the clearance to cross the SAAFR. Where relevant, ATC will pass traffic information on other aircraft in the SAAFR. Once the aircraft has reported established in the destination LFA, the SAAFR clearance ceases.
+
+
+### Transit Areas
+
+Transit Areas "Whiskey" (western), "Charlie" (central), and "Echo" (eastern) are positioned between the Oakey CTR and the inner boundaries of their respective LFAs. These designated areas facilitate  provide flexibility in routing when leaving or entering Oakey CTR. The vertical limits of all Transit Areas are `SFC` to `A030`. 
+
+## Satellite Airfields
+Within the OFTA, there are two satellite airfields, [Brymaroo](#brymaroo) (YBYO) and [Wyoming](#wyoming) (YWYO), utilized for military operations. Both airfields are located in the North West training. An airways clearance is required to operate at either airfield. If operations are required outside of 2nm radius, then clearance in either/all of the adjoining LFAs is required
+
+Aircraft that require a clearance to operate in the OFTA may become airborne not above `A018` within the confines of the circuit area. This approval to become airborne is only provided to enable two-way communications to be established with Oakey Approach.
+
+### Brymaroo
+
+#### Circuit Heights
+a) Standard Circuit `A024`  
+b) Low Level Circuit `A017`
+
+### Wyoming
+
+#### Circuit Heights
+a) Standard Circuit `A022`  
+b) Low Level Circuit `A017`
 
 ## Coded Clearances (Fast Jets)
 High performance military jet aircraft with planned operations in offshore SUA, or intending to depart to the east, will be assigned a Coded Clearance departure. These aircraft may arrive back to YAMB via the same corridor. These Coded Clearances provide a standardised corridor avoiding civilian traffic in the adjacent airspace. 
