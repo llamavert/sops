@@ -19,14 +19,12 @@ OK ADC owns the airspace within 5 DME of the OK VOR from `SFC` to `A030`. This a
 
 There are eight Low Flying Areas, referred to as "LFAs" . The vertical limits are `SFC` to `A030`, and are depicted on the Oakey Special. They are referred to as LFA, ‘L (number)’ or ‘LIMA (number)’ by voice.
 
-<figure markdown>
-![Oakey Special](img/YBOK_LFA_TEMP.png){ width="600" }
-  <figcaption>Oakey Special</figcaption>
-</figure>
+!!! abstract "Reference"
+    The Oakey Special chart may be found in the Oakey [FIHA AD2 Supp](https://ais-af.airforce.gov.au/australian-aip){target=new} document, available towards section 3.1.3.1
 
 ### SAAFRs
 
-SAAFRs (Standard Use Army Aircraft Flight Routes) X-Ray, Yankee, and Zulu provide corridors into and out of Oakey CTR through the OFTA. These routes are defined as 2nm wide with vertical limits `SFC` to `A030`, and are  depicted on the Oakey Special chart.
+SAAFRs X-Ray, Yankee, and Zulu provide corridors into and out of Oakey CTR through the OFTA. These routes are defined as 2nm wide with vertical limits `SFC` to `A030`, and are  depicted on the Oakey Special chart.
 
 #### Entry and exit
 When cleared to depart via a SAAFR, aircraft are to depart the appropriate leg of the circuit and track direct to the appropriate SAAFR entry gate. When departing LFAs into a SAAFR with known traffic, the aircraft entering the SAAFR must give way to that traffic.
@@ -44,21 +42,6 @@ By default, transit to and from LFAs will be achieved by use of [SAAFRs](#saafrs
     **FNCH85:** "Oakey Ground, helicopter FNCH85, for ops within Lima 5, request clearance"  
     **OK SMC:** "FNCH85, Oakey Ground, Cleared to Lima 5, via X-ray, not above A030, squawk 7301"  
     **FNCH85:** "Cleared to Lima 5, via X-ray, not above A030, squawk 7301, FNCH85"  
-
-## Satellite Airfields
-Within the OFTA, there are two satellite airfields, [Brymaroo](#brymaroo) (YBYO) and [Wyoming](#wyoming) (YWYO), utilized for military operations. Both airfields are located in the North West training. An airways clearance is required to operate at either airfield. If operations are required outside of 2nm radius, then clearance in either/all of the adjoining LFAs is required
-
-### Brymaroo
-
-#### Circuit Heights
-a) Standard Circuit `A024`  
-b) Low Level Circuit `A017`
-
-### Wyoming
-
-#### Circuit Heights
-a) Standard Circuit `A022`  
-b) Low Level Circuit `A017`
 
 ## Charts
 !!! abstract "Reference"

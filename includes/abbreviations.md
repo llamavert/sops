@@ -328,3 +328,5 @@
 *[BLGH]: Burleigh Heads
 *[ROTC]: Robina Town Centre
 *[CGD]: Cudgen Headland
+*[SAAFRs]: Standard Use Army Aircraft Flight Routes
+*[OFTA]: Oakey Flying Training Area
