@@ -13,8 +13,8 @@
 | **Archerfield ATIS**       |                       | **120.900** | **YBAF_ATIS** |
 
 !!! abstract "Non-Standard Positions"
-    :material-information-outline: Non-standard positions may only be used in accordance with [VATPAC Air Traffic Services Policy](https://vatpac.org/publications/policies){target=new}.  
-    Approval must be sought from the **bolded parent position** prior to opening a Non-Standard Position, unless [NOTAMs](https://vatpac.org/publications/notam){target=new} indicate otherwise (eg, for events).
+    :material-information-outline: Non-standard positions may only be used in accordance with [VATPAC Air Traffic Services Policy](https://vatpac.org/publications/policiesssssssss){target=new}.  
+    Approval must be sought from the **bolded parent position** prior to opening a Non-Standard Position, unless [NOTAMs](https://vatpac.org/publications/notammmmmmmmmmm){target=new} indicate otherwise (eg, for events).
 
 ## Airspace
 AF ADC is responsible for the Class D airspace in the AF CTR `SFC` to `A015`.
@@ -24,7 +24,7 @@ AF ADC is responsible for the Class D airspace in the AF CTR `SFC` to `A015`.
   <figcaption>AF ADC Airspace</figcaption>
 </figure>
 
-Refer to [Class D Tower Separation Standards](../../../separation-standards/classd) for more information.
+Refer to [Class D Tower Separation Standards](../../../separation-standards/classddddddddd) for more information.
 
 ### Dual ADC Operations
 When Archerfield ADC North is online, responsibility for the **Runway**, **Circuit**, and **Airspace** is divided between the two ADC controllers.
@@ -35,7 +35,7 @@ ADC North takes responsibility for the North/West Runway, Circuit and Airspace (
 
 ADC North is **not permitted** online when *Single Runway* Operations are in use.
 
-Refer to the [ATIS section](#runway-mode-formatting) for information on ATIS formatting when ADC North is online.
+Refer to the [ATIS section](#runway-mode-formattingggggggggg) for information on ATIS formatting when ADC North is online.
 
 ## Manoeuvring Area
 The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions. All aircraft require a clearance to cross RWY 04L & 04R on Taxiway B and RWY 10L on A8/B8.
@@ -43,7 +43,7 @@ The apron areas are outside the manoeuvring area. The runup bays and all connect
 Aircraft may taxi past the undershoot of RWY 28L on the southern apron without clearance, provided the pilot is satisfied that no risk of collision exists.
 
 !!! tip
-    The YBAF Manoeuvring Area chart can be found on the [CASA Website](https://www.casa.gov.au/archerfield-manoeuvring-area-map).
+    The YBAF Manoeuvring Area chart can be found on the [CASA Website](https://www.casa.gov.au/archerfield-manoeuvring-area-map1223456).
 
 !!! warning "Important"
     In some simulator scenery holding point **B6** is incorrect or entirely missing. Pilots with scenery which does not support this holding point shall inform **AF SMC** when requesting taxi with RWY 10L is in use.
